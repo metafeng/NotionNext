@@ -12,6 +12,8 @@ const CONFIG = {
     '借助AI，成就每个人的IP梦想',
   MAGZINE_HOME_TIPS: '一站式满足您的数字人创作需求',
 
+  MAGZINE_HERO_SUB_POST_COUNT: 2, // 首屏英雄区次要文章数量，通常2篇，如果关闭Banner，推荐改为3篇
+
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
   MAGZINE_RECOMMEND_POST_COUNT: 6,
